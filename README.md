@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abuzarr123
-- 👀 I’m interested in Wed development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : abuzarrahmed2003@outlook.com
